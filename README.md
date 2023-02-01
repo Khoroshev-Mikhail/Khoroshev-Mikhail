@@ -7,6 +7,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 - I have an experienced mentor.
 - I know a backend development.
 - Currently i'm learning Google Apps Scripts and creating telegram's bots.
+- Going to learn GraphQL and something for SSR.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -21,6 +22,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.Js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968494.png" title="Google Apps Script" alt="Google Apps Script" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   </div>
 </section>
