@@ -31,7 +31,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 
 <div>
   <a href="https://www.codewars.com/users/Mikha38">
-    <img src="https://www.codewars.com/users/Mikha38/badges/large?theme=light" alt="CodeWars Badge"/>
+    <img src="https://www.codewars.com/users/Khoroshev-Mikhail/badges/large?theme=light" alt="CodeWars Badge"/>
   </a>
 </div>
 
