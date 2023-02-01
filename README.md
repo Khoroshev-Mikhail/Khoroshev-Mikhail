@@ -41,9 +41,12 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
   <div id="badges">  
     <a href="https://www.t.me/Mikhail38">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>  
+    <a href="https://wa.me/79836993884">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
     <a href="https://www.instagram.com/aa730aa">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <!---
     <a href="your-linkedin-URL">
