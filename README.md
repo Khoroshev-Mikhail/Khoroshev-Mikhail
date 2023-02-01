@@ -32,7 +32,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikha38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <a href="https://www.codewars.com/users/Mikha38">
+  <a href="https://www.codewars.com/users/Khoroshev-Mikhail">
     <img src="https://www.codewars.com/users/Khoroshev-Mikhail/badges/large?theme=light" alt="CodeWars Badge"/>
   </a>
 </div>
