@@ -5,7 +5,7 @@
 I'm a Frontend React Developer and i'm looking for a my first job as a Frontend React Developer.
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
-- I know backend development.
+- I know a backend development.
 - Currently i'm learning Google Apps Scripts and creating telegram's bots.
 
 ---
