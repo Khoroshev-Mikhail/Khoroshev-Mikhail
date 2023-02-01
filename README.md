@@ -29,7 +29,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 
 ---
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikha38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoroshev-Mikhail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href="https://www.codewars.com/users/Khoroshev-Mikhail">
