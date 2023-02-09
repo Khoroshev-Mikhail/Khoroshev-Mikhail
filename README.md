@@ -7,7 +7,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 - I have an experienced mentor.
 - I know a backend development.
 - Currently i'm learning Google Apps Scripts and creating telegram's bots.
-- Going to learn GraphQL and something for SSR.
+- Going to learn GraphQL, Jest, Algoritms, Patterns, something for SSR and may be Vue Or Angular.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
