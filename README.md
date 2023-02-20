@@ -6,7 +6,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
 - I know a backend development.
-- Currently i'm learning Google Apps Scripts and creating telegram's bots.
+- Currently i'm learning NextJS and Prisma.
 - Going to learn GraphQL, something for testing, algoritms, patterns and may be Vue Or Angular.
 
 ---
