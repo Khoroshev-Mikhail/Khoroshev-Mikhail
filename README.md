@@ -7,7 +7,7 @@ I'm a Frontend React Developer and i'm looking for a my first job as a Frontend 
 - I have an experienced mentor.
 - I know a backend development.
 - Currently i'm learning testing with Jest and React-testing-library.
-- Going to learn GraphQL, something for testing, algoritms, patterns and may be Vue Or Angular.
+- Going to learn GraphQL, React Native, algoritms, patterns and may be Vue Or Angular.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
