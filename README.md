@@ -1,7 +1,7 @@
 ### 👋 Hi there I'm Mike and i'm a Frontend React Developer
 
 ---
-### :man_technologist: About Me :
+### :man_technologist: About Me (upd 9.03.23):
 I'm a Frontend React Developer and i'm looking for a my first job as a Frontend React Developer.
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
