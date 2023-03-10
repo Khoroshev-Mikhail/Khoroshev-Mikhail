@@ -1,9 +1,9 @@
 ### UPD 09.03.23
-### 👋 Hi there I'm Mike and i'm a Frontend React Developer
+### 👋 Hi there I'm Mike and i'm a JavaScript Developer
 
 ---
 ### :man_technologist: About Me:
-I'm a Frontend React Developer and i'm looking for a my first job as a Frontend React Developer.
+I'm a JavaScript Developer and i'm looking for a my first job as a Frontend React Developer.
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
 - I know a backend development.
