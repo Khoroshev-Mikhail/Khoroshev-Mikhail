@@ -8,7 +8,7 @@ I'm a JavaScript Developer and i'm looking for a job as a Frontend React Develop
 - I have an experienced mentor.
 - I know a backend development.
 - Currently i'm learning testing with Jest and React-testing-library.
-- Going to learn GraphQL, React Native, algoritms, patterns and may be Vue Or Angular.
+- Going to learn React Native, algoritms, patterns and may be Vue Or Angular.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -19,6 +19,7 @@ I'm a JavaScript Developer and i'm looking for a job as a Frontend React Develop
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJs" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
