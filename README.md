@@ -7,8 +7,8 @@ I'm a JavaScript Developer and i'm looking for a job as a Frontend React Develop
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
 - I know a backend development.
-- Currently i'm learning testing with Jest and React-testing-library.
-- Going to learn React Native, algoritms, patterns and may be Vue Or Angular.
+- Currently i'm learning algoritms.
+- Going to learn React Native, patterns and may be Vue Or Angular.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
