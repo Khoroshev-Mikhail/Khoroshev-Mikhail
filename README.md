@@ -32,12 +32,12 @@ I'm a JavaScript Developer.
   </div>
 </section>
 
----
+<!-- ---
 ### :white_check_mark: Portfolio :
 - [SPA for the СRSSRus company](https://www.xn--p1abba.xn--p1ai/)
 - [Adaptive cross-browser layout + javascript animation](https://testjob-eight.vercel.app/) (Layout is ➡️ [here](https://www.figma.com/file/YXCbNT4Jf9INk62BKTZw1z/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0%3A1))
-
 ---
+ -->
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoroshev-Mikhail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
