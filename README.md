@@ -11,7 +11,7 @@ I'm a JavaScript Developer.
 - Going to learn React Native, patterns and may be Vue Or Angular.
 ---
  -->
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools : -->
 <section>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
