@@ -1,7 +1,7 @@
 ### UPD 06.04.23
 ### 👋 Hi there I'm Mike and i'm a JavaScript Developer
 
----
+<!-- ---
 ### :man_technologist: About Me:
 I'm a JavaScript Developer.
 - I'm studying JS+React and other technologies about 3 years.
@@ -9,8 +9,8 @@ I'm a JavaScript Developer.
 - I know a backend development.
 - Currently i'm learning algoritms.
 - Going to learn React Native, patterns and may be Vue Or Angular.
-
 ---
+ -->
 ### :hammer_and_wrench: Languages and Tools :
 <section>
   <div>
