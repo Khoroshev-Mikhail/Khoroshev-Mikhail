@@ -3,7 +3,7 @@
 
 ---
 ### :man_technologist: About Me:
-I'm a JavaScript Developer and i'm looking for a job as a Frontend React Developer.
+I'm a JavaScript Developer.
 - I'm studying JS+React and other technologies about 3 years.
 - I have an experienced mentor.
 - I know a backend development.
