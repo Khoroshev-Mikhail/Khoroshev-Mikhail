@@ -1,4 +1,4 @@
-### UPD 06.04.23
+<!-- ### UPD 06.04.23 -->
 ### 👋 Hi there I'm Mike and i'm a JavaScript Developer
 
 <!-- ---
